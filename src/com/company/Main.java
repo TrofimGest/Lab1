@@ -1,0 +1,1 @@
+package bsu.rfe.java.group10.lab1.Gest.varB2;
